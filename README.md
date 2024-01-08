@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/naolb06" target="blank"><img src="https://img.shields.io/twitter/follow/naolb06?logo=twitter&style=for-the-badge" alt="naolb06" /></a> </p>
 
 - 💬 Ask me about **MERN-stack**
-- 👨‍💻 Studying **Software engineering  at Arba Minch University **
+- 👨‍💻 Studying **Software Engineering  at Arba Minch University **
 - 📫 How to reach me **naolb06@gmail.com**
 
 - ⚡ Fun fact **I am a straightforward individual who is always eager to learn and collaborate with others to create innovative solutions.**
