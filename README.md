@@ -1,3 +1,4 @@
+<img width="1834" alt="Make your README-1" src="https://github.com/naol06/naol06/assets/118481867/8112924f-cbdb-46d9-9d6f-c4bf308dd290">
 <h1 align="center">Hi 👋, I'm Naol</h1>
 <h3 align="center">A passionated MERN-Stack developer from Ethiopia</h3>
 
