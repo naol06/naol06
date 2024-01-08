@@ -1,7 +1,7 @@
 <img width="1834" alt="Make your README-1" src="https://github.com/naol06/naol06/assets/118481867/8112924f-cbdb-46d9-9d6f-c4bf308dd290">
 <h1 align="center">Hi 👋, I'm Naol</h1>
 <h3 align="center">A passionated MERN-Stack developer from Ethiopia</h3>
-
+<img align="right" width="200" alt="Make your README-1" src="[https://github.com/naol06/naol06/assets/118481867/8112924f-cbdb-46d9-9d6f-c4bf308dd290](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naol06&label=Profile%20views&color=0e75b6&style=flat" alt="naol06" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naolb06" target="blank"><img src="https://img.shields.io/twitter/follow/naolb06?logo=twitter&style=for-the-badge" alt="naolb06" /></a> </p>
