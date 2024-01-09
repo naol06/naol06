@@ -1,10 +1,10 @@
-<img width="1834" alt="Make your README-1" src="https://github.com/naol06/naol06/assets/118481867/1e8d01d8-8e18-47ca-9dfb-db92d69088d0">
-<h1 align="center">Hi 👋, I'm Naol</h1>
+<img width="1834"  alt="Make your README-1" src="https://github.com/naol06/naol06/assets/118481867/1e8d01d8-8e18-47ca-9dfb-db92d69088d0">
 <h3 align="center">A passionated MERN-Stack developer from Ethiopia</h3>
-<img align="right" width="200" alt="Make your README-1" src="[https://github.com/naol06/naol06/assets/118481867/8112924f-cbdb-46d9-9d6f-c4bf308dd290](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naol06&label=Profile%20views&color=0e75b6&style=flat" alt="naol06" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naolb06" target="blank"><img src="https://img.shields.io/twitter/follow/naolb06?logo=twitter&style=for-the-badge" alt="naolb06" /></a> </p>
+<img align="right" width="400" alt="Make your README-1"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/118481867/295290175-07b60ccf-8ca5-46f6-bd56-eb3e1777bd51.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240109T173957Z&X-Amz-Expires=300&X-Amz-Signature=deea624ef0626bc2f74e234aba5fc7da9eb92ce5a3730055bbbb8dbaafe8e1c6&X-Amz-SignedHeaders=host&actor_id=118481867&key_id=0&repo_id=740688841">
 
 - 💬 Ask me about **MERN-stack**
 - 👨‍💻 Studying **Software Engineering  at Arba Minch University **
