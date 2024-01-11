@@ -5,11 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/naolb06" target="blank"><img src="https://img.shields.io/twitter/follow/naolb06?logo=twitter&style=for-the-badge" alt="naolb06" /></a> </p>
 - 💬 Ask me about **MERN-stack**
-==> ongoing project **Amazon Clone**
+<br/>
+<br/>
+ - 👨‍💻<strong>Ongoing project</strong> **Amazon Clone**
+<br/>
+<br/>
 - 👨‍💻 Studying **Software Engineering  at Arba Minch University **
-  
+  <br/>
 - 📫 How to reach me **naolb06@gmail.com**
-
+<br/>
 - ⚡ Fun fact **I am a straightforward individual who is always eager to learn and collaborate with others to create innovative solutions.**
 
 <h3 align="left">Connect with me:</h3>
