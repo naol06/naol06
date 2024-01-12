@@ -1,5 +1,4 @@
 <img width="1834"  alt="Make your README-1" src="https://github.com/naol06/naol06/assets/118481867/1e8d01d8-8e18-47ca-9dfb-db92d69088d0">
-<h3 align="center">A passionated MERN-Stack developer from Ethiopia</h3>
 <img align="right" width="400" alt="Make your README-1"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/118481867/295290175-07b60ccf-8ca5-46f6-bd56-eb3e1777bd51.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240109T173957Z&X-Amz-Expires=300&X-Amz-Signature=deea624ef0626bc2f74e234aba5fc7da9eb92ce5a3730055bbbb8dbaafe8e1c6&X-Amz-SignedHeaders=host&actor_id=118481867&key_id=0&repo_id=740688841">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naol06&label=Profile%20views&color=0e75b6&style=flat" alt="naol06" /> </p>
 
