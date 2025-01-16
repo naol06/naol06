@@ -6,7 +6,7 @@
 - 💬 Ask me about **MERN-stack**
 <br/>
 <br/>
- - 👨‍💻<strong>Ongoing project</strong> **Amazon Clone**
+ - 👨‍💻<strong>Ongoing project</strong> **MINCH DRIVING SCHOOL MANAGEMENT SYSTEM**
 <br/>
 <br/>
 - 👨‍💻 Studying **Software Engineering  at Arba Minch University **
